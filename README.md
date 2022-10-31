@@ -1,5 +1,10 @@
 # Employee-Directory
 
+## Screenshots
+|Home|Detail|Malfomed List|Empty List|
+|:-:|:-:|:-:|:-:|
+|![Simulator Screen Shot - iPhone 13 - 2022-10-30 at 17 45 44](https://user-images.githubusercontent.com/45903299/198911808-ff86ce2e-745b-4736-b366-18b099a20909.png)|![Simulator Screen Shot - iPhone 13 - 2022-10-30 at 17 45 47](https://user-images.githubusercontent.com/45903299/198911823-e13f3bd3-a5b0-43ea-8ab3-484dc9479d3c.png)|![Simulator Screen Shot - iPhone 13 - 2022-10-30 at 17 46 07](https://user-images.githubusercontent.com/45903299/198911835-e534557d-d014-4ee4-9400-5bd5ce4139df.png)|![Simulator Screen Shot - iPhone 13 - 2022-10-30 at 17 46 34](https://user-images.githubusercontent.com/45903299/198911841-19e4fbd0-58b6-4eb8-b41e-ff04c8cfed7d.png)|
+
 ## Build tools & versions used
 XCode 13.2
 
